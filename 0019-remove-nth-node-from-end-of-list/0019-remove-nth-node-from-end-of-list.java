@@ -10,42 +10,29 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        
-        int cnt = 0;
-        ListNode temp = head;
+         // Create a dummy node before head to handle edge cases
+        ListNode dummy = new ListNode(0, head);
 
-        if(head == null){
-            return null;
+        // Initialize slow and fast pointers at dummy
+        ListNode slow = dummy;
+        ListNode fast = dummy;
+
+        // Move fast pointer N+1 steps ahead to create a gap
+        for (int i = 0; i <= n; i++) {
+            fast = fast.next;
         }
 
-        // Count total number of nodes
-        while(temp != null){
-            cnt++;
-            temp= temp.next;
-        }
-         
-        // If N equals total nodes → delete head
-        if(cnt == n){
-            return head.next;
+        // Move both pointers until fast reaches the end
+        while (fast != null) {
+            slow = slow.next;
+            fast = fast.next;
         }
 
-        // Calculate position from start
-        int res = cnt - n;
-        temp = head;
+        // Slow is now at node before target → delete target node
+        slow.next = slow.next.next;
 
-        // Traverse to the node before target
-         while (temp != null) {
-            res--;
-            if (res == 0) {
-                break;
-            }
-            temp = temp.next;
-        }
-        
-        // Delete the node
-        temp.next = temp.next.next;
-
-        return head;
+        // Return updated head
+        return dummy.next;
     }
 }
-// Brute Force :- Tc-O(L)+(L-N), SC- O(1)
+// Optimized Force :- Tc-O(N), SC- O(1)
