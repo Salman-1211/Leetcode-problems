@@ -15,28 +15,22 @@
  */
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-         if (subRoot == null) {
-            return true;
-        }
-        if (root == null) {
-            return false;
-        }
+          String rootStr    = serialize(root);
+        String subRootStr = serialize(subRoot);
 
-        if (sameTree(root, subRoot)) {
-            return true;
-        }
-        return isSubtree(root.left, subRoot) ||
-               isSubtree(root.right, subRoot);
+        // substring check — O(m + n) with KMP, O(m·n) naive but fast in practice
+        return rootStr.contains(subRootStr);
     }
 
-    public boolean sameTree(TreeNode root, TreeNode subRoot) {
-        if (root == null && subRoot == null) {
-            return true;
-        }
-        if (root != null && subRoot != null && root.val == subRoot.val) {
-            return sameTree(root.left, subRoot.left) &&
-                   sameTree(root.right, subRoot.right);
-        }
-        return false;
+    // Serialize tree to a string with unambiguous delimiters.
+    // Format: #val, where '#' marks a node start and ',' separates values.
+    // Null nodes are represented as "#null"
+    private String serialize(TreeNode node) {
+        if (node == null) return ",#null";
+
+        // Pre-order: node value first, then left, then right
+        return ",#" + node.val
+             + serialize(node.left)
+             + serialize(node.right);
     }
 }
