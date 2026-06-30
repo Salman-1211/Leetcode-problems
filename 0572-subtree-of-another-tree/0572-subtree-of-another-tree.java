@@ -15,7 +15,7 @@
  */
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-          String rootStr    = serialize(root);
+        String rootStr    = serialize(root);
         String subRootStr = serialize(subRoot);
 
         // substring check — O(m + n) with KMP, O(m·n) naive but fast in practice
