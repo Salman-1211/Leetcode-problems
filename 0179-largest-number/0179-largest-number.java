@@ -1,22 +1,27 @@
 class Solution {
     public String largestNumber(int[] nums) {
-        Integer[] numsAsInteger = Arrays.stream(nums).boxed().toArray(Integer[]::new);
+         // Convert integers to strings
+        String[] store = new String[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            store[i] = String.valueOf(nums[i]);
+        }
 
-        Arrays.sort(numsAsInteger, (a, b) -> {
-            String s1 = Integer.toString(a);
-            String s2 = Integer.toString(b);
-            return (s2 + s1).compareTo(s1 + s2);
+        // Custom sort with comparator
+        Arrays.sort(store, (a, b) -> {
+            String order1 = a + b;
+            String order2 = b + a;
+            return order2.compareTo(order1); // descending order
         });
 
-        if (numsAsInteger[0] == 0) {
-            return "0";
+        // 🔹 handle all zeros case
+        if (store[0].equals("0")) return "0";
+
+        // Concatenate all strings
+        StringBuilder ans = new StringBuilder();
+        for (String s : store) {
+            ans.append(s);
         }
 
-        StringBuilder result = new StringBuilder();
-        for (int num : numsAsInteger) {
-            result.append(num);
-        }
-
-        return result.toString();
+        return ans.toString();
     }
 }
