@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
