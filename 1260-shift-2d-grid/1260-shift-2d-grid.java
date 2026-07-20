@@ -1,39 +1,54 @@
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
 
-        // Perform k shifts
-        for (int s = 0; s < k; s++) {
-            int[][] newGrid = new int[m][n];
+        int m = grid.length;       // rows count
+        int n = grid[0].length;    // columns count
+        int total = m * n;         // total cells (our cycle length)
 
-            for (int i = 0; i < m; i++) {
-                for (int j = 0; j < n; j++) {
+        // Result grid — same size as input
+        int[][] result = new int[m][n];
 
-                    // Last element of grid goes to [0][0]
-                    if (i == m - 1 && j == n - 1) {
-                        newGrid[0][0] = grid[i][j];
-                    }
-                    // Last column goes to next row first column
-                    else if (j == n - 1) {
-                        newGrid[i + 1][0] = grid[i][j];
-                    }
-                    // All others shift right
-                    else {
-                        newGrid[i][j + 1] = grid[i][j];
-                    }
-                }
+        // ── CORE LOGIC ─────────────────────────────────────
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+
+                // STEP 1: Where is this element right now? (2D → 1D)
+                // Think of grid as one long array
+                // Row 0: positions 0 to n-1
+                // Row 1: positions n to 2n-1
+                // Row i: positions i*n to i*n+(n-1)
+                int pos = i * n + j;
+
+                // STEP 2: Where does it go after k shifts?
+                // Add k to current position
+                // Use % total to wrap around (cyclic behaviour)
+                // Example: last element + 1 shift → goes to position 0
+                int newPos = (pos + k) % total;
+
+                // STEP 3: Convert new 1D position back to 2D
+                // Integer division → which row?
+                // Modulo → which column in that row?
+                int newI = newPos / n;
+                int newJ = newPos % n;
+
+                // STEP 4: Place element in new position
+                result[newI][newJ] = grid[i][j];
             }
-            grid = newGrid;
         }
 
-        // Convert to List<List<Integer>>
-        List<List<Integer>> result = new ArrayList<>();
-        for (int[] row : grid) {
+        // ── CONVERT TO LIST<LIST<INTEGER>> ─────────────────
+        // LeetCode requires this return type
+        // int[][] → List<List<Integer>>
+        List<List<Integer>> ans = new ArrayList<>();
+
+        for (int[] row : result) {
             List<Integer> rowList = new ArrayList<>();
-            for (int val : row) rowList.add(val);
-            result.add(rowList);
+            for (int val : row) {
+                rowList.add(val);   // autoboxing: int → Integer
+            }
+            ans.add(rowList);
         }
-        return result;
+
+        return ans;
     }
 }
