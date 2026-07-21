@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0572-subtree-of-another-tree) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
