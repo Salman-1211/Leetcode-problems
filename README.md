@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
+| [0739-daily-temperatures](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
