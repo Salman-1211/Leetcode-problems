@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1260-shift-2d-grid) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
