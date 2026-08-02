@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0877-stone-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0877-stone-game) |
 ## Union-Find
 |  |
 | ------- |
