@@ -1,18 +1,21 @@
-//Time complexity: O(m∗nlogn)
-//Space complexity: O(m∗n)
+//Time complexity: O(m∗n)
+//Space complexity: O(1)
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String,List<String>> seen = new HashMap<>();
+        HashMap<String,List<String>> ans = new HashMap<>();
 
         for(String s : strs){
-            char[] ch = s.toCharArray();
-            Arrays.sort(ch);
+            int[] count = new int[26];
+            
+            for(char c: s.toCharArray()){
+                count[c-'a']++;
+            }
 
-            String Sorted = new String(ch);
-            seen.putIfAbsent(Sorted,new ArrayList<>());
-            seen.get(Sorted).add(s);
+            String key = Arrays.toString(count);
+            ans.putIfAbsent(key,new ArrayList<>());
+            ans.get(key).add(s);
         }
-        return new ArrayList<>(seen.values());
+        return new ArrayList<>(ans.values());
     }
 }
