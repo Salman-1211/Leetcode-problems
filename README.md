@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
