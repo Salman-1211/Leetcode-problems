@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0567-permutation-in-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0387-first-unique-character-in-a-string) |
