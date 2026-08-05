@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0572-subtree-of-another-tree) |
+| [3310-remove-methods-from-project](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0226-invert-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
