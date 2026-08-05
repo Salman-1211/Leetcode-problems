@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0877-stone-game) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
