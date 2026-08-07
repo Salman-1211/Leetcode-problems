@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0572-subtree-of-another-tree) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -251,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
