@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0143-reorder-list) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
