@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0226-invert-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
