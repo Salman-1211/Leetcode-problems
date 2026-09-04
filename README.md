@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0739-daily-temperatures) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -332,4 +337,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
