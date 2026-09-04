@@ -3,19 +3,14 @@
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String,List<String>> ans = new HashMap<>();
-
-        for(String s : strs){
-            int[] count = new int[26];
-            
-            for(char c: s.toCharArray()){
-                count[c-'a']++;
-            }
-
-            String key = Arrays.toString(count);
-            ans.putIfAbsent(key,new ArrayList<>());
-            ans.get(key).add(s);
+        Map<String, List<String>> res = new HashMap<>();
+        for (String s : strs) {
+            char[] charArray = s.toCharArray();
+            Arrays.sort(charArray);
+            String sortedS = new String(charArray);
+            res.putIfAbsent(sortedS, new ArrayList<>());
+            res.get(sortedS).add(s);
         }
-        return new ArrayList<>(ans.values());
+        return new ArrayList<>(res.values());
     }
 }
