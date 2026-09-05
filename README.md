@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3903-smallest-stable-index-i) |
 ## Nim Game
