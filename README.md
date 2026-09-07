@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0572-subtree-of-another-tree) |
+| [0940-distinct-subsequences-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1510-stone-game-iv) |
