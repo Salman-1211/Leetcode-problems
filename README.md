@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0567-permutation-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0572-subtree-of-another-tree) |
 | [0940-distinct-subsequences-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0179-largest-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
