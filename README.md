@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0486-predict-the-winner) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
