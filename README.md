@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1260-shift-2d-grid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
