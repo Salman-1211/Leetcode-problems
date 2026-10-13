@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3525-find-x-value-of-array-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
