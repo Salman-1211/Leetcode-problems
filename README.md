@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3524-find-x-value-of-array-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
@@ -428,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Salman-1211/Leetcode-150-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
